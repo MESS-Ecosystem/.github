@@ -11,6 +11,9 @@ The goal is to build a stable realtime messaging architecture that scales proper
 ---
 
 # Core Philosophy
+<details>
+<summary>Read More</summary>
+
 
 MESS follows a strict backend-first development workflow.
 
@@ -247,3 +250,5 @@ This project exists primarily as:
 Everything is built incrementally, carefully, and intentionally.
 
 Even the chaos is part of the architecture.
+</details>
+
